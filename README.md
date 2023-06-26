@@ -8,13 +8,15 @@
 
 <br/>
 
-### 1. 프로젝트 목표
+## 1. 프로젝트 목표
 - 개인의 위치기반 가장 가까운 대피소 안내
 - 대피소별 최단경로 안내
 - 대피소별 인원 집계
 - 대피소별 포화도 안내
 
-### 2. 팀원 소개
+<br/>
+
+## 2. 팀원 소개
 
 | 이름   | 담당 업무             |
 | ------ | -------------------- |
@@ -26,8 +28,9 @@
 | 조현지 | 역할5                 |
 | 최지우 | 역할6                 |
 
+<br/>
 
-### 3. 프로토타입
+## 3. 프로토타입
 사용자 : [🔗](https://prototype36.streamlit.app/) https://prototype36.streamlit.app/
 <br/>
 관리자 : [🔗](https://viewprototype36.streamlit.app/) https://viewprototype36.streamlit.app/ 
