@@ -26,6 +26,6 @@
 
 
 ## 3. 프로토타입
-사용자 : [🔗](https://prototype36.streamlit.app/) https://prototype36.streamlit.app/
+사용자 : [🔗] (https://prototype36.streamlit.app/) https://prototype36.streamlit.app/
 <br/>
-관리자 : [🔗](https://viewprototype36.streamlit.app/)https://viewprototype36.streamlit.app/ 
+관리자 : [🔗] (https://viewprototype36.streamlit.app/) https://viewprototype36.streamlit.app/ 
