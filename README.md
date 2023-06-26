@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6FFFF&height=200&section=header&text=KT AIVLE SCHOOL&fontSize=50" />
-
 <div align="center">
   
 # 3rd DX Big-Project 36조
