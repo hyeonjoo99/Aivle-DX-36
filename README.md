@@ -1,20 +1,20 @@
 <div align="center">
   
-## Aivle School 3rd DX Big-Project 36조
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aivle School DX Big-Project 36조&fontSize=35" />
 
-### 🚨 대피소 최단 경로 안내 솔루션 🚨 
-
+# 🚨 대피소 최단 경로 안내 솔루션 🚨 
 
 </div>
 
+<br/>
 
-## 1. 프로젝트 목표
+### 1. 프로젝트 목표
 - 개인의 위치기반 가장 가까운 대피소 안내
 - 대피소별 최단경로 안내
 - 대피소별 인원 집계
 - 대피소별 포화도 안내
 
-## 2. 팀원 소개
+### 2. 팀원 소개
 
 | 이름   | 담당 업무             |
 | ------ | -------------------- |
@@ -27,7 +27,7 @@
 | 최지우 | 역할6                 |
 
 
-## 3. 프로토타입
+### 3. 프로토타입
 사용자 : [🔗](https://prototype36.streamlit.app/) https://prototype36.streamlit.app/
 <br/>
 관리자 : [🔗](https://viewprototype36.streamlit.app/) https://viewprototype36.streamlit.app/ 
