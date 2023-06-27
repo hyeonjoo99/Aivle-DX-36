@@ -101,9 +101,7 @@ st.set_page_config(layout='wide')
 
 html = """<!DOCTYPE html>
 <html>
-
-<a href="http://www.mois.go.kr"><img src="img/행정안전부.png" width=100px height=30px" border="0" alt="행정안전부 홈페이지로 갑니다" /></a>
-
+<img src = "https://aivle.edu.kt.co.kr/tpl/001/img/common/logo.svg" alt = 에이블로고 style="float: left; width:100px; height:30px;"> </img>
 </html>"""
 
 st.markdown(html, unsafe_allow_html=True)
