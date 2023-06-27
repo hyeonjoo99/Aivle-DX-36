@@ -101,7 +101,7 @@ st.set_page_config(layout='wide')
 
 html = """<!DOCTYPE html>
 <html>
-<img src = "https://aivle.edu.kt.co.kr/tpl/001/img/common/logo.svg" alt = 에이블로고 style="float: left; width:100px; height:30px;"> </img>
+<img src = "행정안전부.png" alt = 행안부로고 style="float: left; width:100px; height:30px;"> </img>
 </html>"""
 st.markdown(html, unsafe_allow_html=True)
 
