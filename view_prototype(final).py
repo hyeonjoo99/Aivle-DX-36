@@ -120,7 +120,7 @@ def video_all():
 
     html = f"""<!DOCTYPE html>
                  <html>
-                 <iframe width="650" height="400" 
+                 <iframe width="800" height="400" 
                  src="{video}" title="YouTube video player" 
                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
                  gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </html> """
@@ -306,7 +306,7 @@ with video1:
         video_index = selected_row[0]["_selectedRowNodeInfo"]["nodeRowIndex"]
         location_name = selected_row[0]['대피소명']
         html = video_all()
-        components.html(html, width=650, height=400)
+        components.html(html, width=800, height=400)
     else:
         st.write('')
     # st.write(selected_row[0]['대피소명'])
