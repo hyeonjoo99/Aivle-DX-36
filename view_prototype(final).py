@@ -149,7 +149,7 @@ html = """<!DOCTYPE html>
 </html>"""
 st.markdown(html, unsafe_allow_html=True)
 
-st.title('🚨01월 09일 01:28 서쪽 26km해역 규보 7.0 지진 발생')
+st.title('🚨14:29 경남 김해시 남남쪽 5Km 지역 규모 6.0 지진 발생')
 
 
 
