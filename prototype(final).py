@@ -103,7 +103,6 @@ html = """<!DOCTYPE html>
 <html>
 <a href="http://www.mois.go.kr"><img src="행정안전부.png" width=100px height=30px" border="0" alt="행정안전부 홈페이지로 갑니다" /></a></html>"""
 
-</html>"""
 st.markdown(html, unsafe_allow_html=True)
 
 st.title('🚨긴급 대피 시스템')
