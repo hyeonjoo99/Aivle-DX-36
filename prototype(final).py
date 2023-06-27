@@ -203,7 +203,7 @@ else:
     pass
 with map1:
     st.markdown('### '+'현재위치: '+s_loc)
-    st_data_r = folium_static(m, width=650)
+    st_data_r = folium_static(m, width=550)
 
 
 # 스트림릿
