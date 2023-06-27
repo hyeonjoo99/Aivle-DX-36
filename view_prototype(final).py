@@ -120,7 +120,7 @@ def video_all():
 
     html = f"""<!DOCTYPE html>
                  <html>
-                 <iframe width="800" height="400" 
+                 <iframe width="1000" height="400" 
                  src="{video}" title="YouTube video player" 
                  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
                  gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </html> """
@@ -233,7 +233,7 @@ with map1:
                 folium.Marker([lat[i], lon[i]] ,popup=daepi[i], tooltip=daepi[i], icon=folium.Icon('orange')).add_to(m)
             else:
                 folium.Marker([lat[i], lon[i]] ,popup=daepi[i], tooltip=daepi[i], icon=folium.Icon('green')).add_to(m)            
-        st_data_r = folium_static(m, width=900, height=400)
+        st_data_r = folium_static(m, width=1000, height=400)
 
  
 with daepi_list:
@@ -306,7 +306,7 @@ with video1:
         video_index = selected_row[0]["_selectedRowNodeInfo"]["nodeRowIndex"]
         location_name = selected_row[0]['대피소명']
         html = video_all()
-        components.html(html, width=800, height=400)
+        components.html(html, width=1000, height=400)
     else:
         st.write('')
     # st.write(selected_row[0]['대피소명'])
