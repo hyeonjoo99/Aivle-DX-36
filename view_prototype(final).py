@@ -223,7 +223,7 @@ with map1:
     
     if b == 'no':
         m = folium.Map(location = [37.5502, 126.982], zoom_start = 11 )            
-        st_data_r = folium_static(m, width=700, height=400)
+        st_data_r = folium_static(m, width=900, height=400)
     else:
         # st.dataframe(data_choice)
         for i in range(len(data_choice)):
@@ -233,7 +233,7 @@ with map1:
                 folium.Marker([lat[i], lon[i]] ,popup=daepi[i], tooltip=daepi[i], icon=folium.Icon('orange')).add_to(m)
             else:
                 folium.Marker([lat[i], lon[i]] ,popup=daepi[i], tooltip=daepi[i], icon=folium.Icon('green')).add_to(m)            
-        st_data_r = folium_static(m, width=700, height=400)
+        st_data_r = folium_static(m, width=900, height=400)
 
  
 with daepi_list:
