@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aivle School DX Big-Project 36조&fontSize=35" />
 
-# 🚨 대피소 최단 경로 안내 솔루션 🚨 
+# 🚨 U.R.L 을 활용한 대피소 안내 솔루션 🚨 
 
 </div>
 
